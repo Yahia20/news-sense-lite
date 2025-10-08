@@ -1,0 +1,13 @@
+streamlit
+pyngrok
+langchain
+langchain-community
+langchain-huggingface
+transformers
+accelerate
+bitsandbytes
+sentencepiece
+unstructured
+pypdf
+python-dotenv
+faiss-cpu
